@@ -26,7 +26,7 @@ const Certificates = () => {
             />
             <div className="flex items-center justify-center">
               <button className="w-full px-6 py-3 m-4 duration-200 hover:scale-105 text-white">
-                Certificate 1
+              Information Technology Specialist - Networking
               </button>
             </div>
           </div>
@@ -39,7 +39,7 @@ const Certificates = () => {
             />
             <div className="flex items-center justify-center">
               <button className="w-full px-6 py-3 m-4 duration-200 hover:scale-105 text-white">
-                Certificate 2
+                Information Technology Specialist - Network Security
               </button>
             </div>
           </div>
@@ -52,7 +52,7 @@ const Certificates = () => {
             />
             <div className="flex items-center justify-center">
               <button className="w-full px-6 py-3 m-4 duration-200 hover:scale-105 text-white">
-                Certificate 3
+              Computer System Servicing NC II
               </button>
             </div>
           </div>
