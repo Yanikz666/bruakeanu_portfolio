@@ -11,7 +11,7 @@ const Certificates = () => {
       <div className="container mx-auto">
         <div className="text-center mb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            Certificates
+            Certifications
           </p>
           <p className="text-xl mt-4">Check out some of my certifications and achievements</p>
         </div>

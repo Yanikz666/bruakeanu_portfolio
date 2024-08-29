@@ -11,7 +11,7 @@ const NavBar = () => {
     { id: 2, link: 'about' },
     { id: 3, link: 'portfolio' },
     { id: 4, link: 'experience' },
-    { id: 5, link: 'certificates' }, // Added "certificates" tab
+    { id: 5, link: 'certifications' }, // Added "certificates" tab
   ];
 
   return (
